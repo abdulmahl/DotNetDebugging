@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+using System.Diagnostics;
 
 int results = Fibonacci(5);
 WriteLine(results);
@@ -18,3 +19,6 @@ static int Fibonacci(int n)
     return n == 0 ? n1 : n2;
 }
 
+WriteLine("This message is readable by the end user.");
+Trace.WriteLine("This is a trace message when tracing the app.");
+Debug.WriteLine("This is a debug message just for developers.");
