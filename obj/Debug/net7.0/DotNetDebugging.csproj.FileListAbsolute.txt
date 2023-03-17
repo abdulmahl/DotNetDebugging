@@ -1,0 +1,15 @@
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging.deps.json
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging.runtimeconfig.json
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging.dll
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/bin/Debug/net7.0/DotNetDebugging.pdb
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.csproj.AssemblyReference.cache
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.AssemblyInfo.cs
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.dll
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/refint/DotNetDebugging.dll
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.pdb
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/DotNetDebugging.genruntimeconfig.cache
+/Users/m.abdulmahlangu/Documents/DotNetDebugging/obj/Debug/net7.0/ref/DotNetDebugging.dll
